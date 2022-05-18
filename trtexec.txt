@@ -1,0 +1,1 @@
+/usr/src/tensorrt/bin/trtexec --onnx=Desktop/liho/liho.onnx --shapes=input:1X64X64X3 --saveEngine=li_engine.trt
